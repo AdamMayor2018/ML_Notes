@@ -18,4 +18,6 @@
 2.  [基于数据分布规律进行特征衍生(IV-WOE检验)](https://github.com/AdamMayor2018/ML_Notes/blob/main/%E4%BA%8C.%E7%89%B9%E5%BE%81%E8%A1%8D%E7%94%9F/%E4%BA%8C.%E5%9F%BA%E4%BA%8E%E6%95%B0%E6%8D%AE%E5%88%86%E5%B8%83%E8%A7%84%E5%BE%8B%E8%BF%9B%E8%A1%8C%E7%89%B9%E5%BE%81%E8%A1%8D%E7%94%9F(IV-WOE%E6%A3%80%E9%AA%8C).md)
 3.  [单变量自动特征衍生](https://github.com/AdamMayor2018/ML_Notes/blob/main/%E4%BA%8C.%E7%89%B9%E5%BE%81%E8%A1%8D%E7%94%9F/%E4%B8%89.%E5%8D%95%E5%8F%98%E9%87%8F%E8%87%AA%E5%8A%A8%E7%89%B9%E5%BE%81%E8%A1%8D%E7%94%9F.md)
 4.  [双变量自动特征衍生](https://github.com/AdamMayor2018/ML_Notes/blob/main/%E4%BA%8C.%E7%89%B9%E5%BE%81%E8%A1%8D%E7%94%9F/%E5%9B%9B.%E5%8F%8C%E5%8F%98%E9%87%8F%E8%87%AA%E5%8A%A8%E7%89%B9%E5%BE%81%E8%A1%8D%E7%94%9F.md)
+5.  多变量自动特征衍生
+6.  [时序特征衍生](https://github.com/AdamMayor2018/ML_Notes/blob/main/%E4%BA%8C.%E7%89%B9%E5%BE%81%E8%A1%8D%E7%94%9F/%E5%85%AD.%E6%97%B6%E5%BA%8F%E7%89%B9%E5%BE%81%E8%A1%8D%E7%94%9F.md) 
 
